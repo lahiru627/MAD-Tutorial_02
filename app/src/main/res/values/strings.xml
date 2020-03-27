@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">IntentsProj</string>
+    <string name="num1">Number 1</string>
+    <string name="num2">Number 2</string>
+    <string name="type1" />
+    <string name="type2" />
+    <string name="btnok">OK</string>
+    <string name="add">+</string>
+    <string name="sub">-</string>
+    <string name="multi">*</string>
+    <string name="div">/</string>
+    <string name="answer"> </string>
+    <string name="toastMessage">custom_toast_message</string>
+    <string name="helloWorld">custom_toast_image</string>
+    <string name="btn_to_calculator">Enter to Calculator</string>
+    <string name="custom_toast">Custom Toast</string>
+</resources>
